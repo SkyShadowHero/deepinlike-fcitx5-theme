@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="panel.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="15.333333"
+     inkscape:cx="24.032609"
+     inkscape:cy="24.130435"
+     inkscape:window-width="1707"
+     inkscape:window-height="987"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient9"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#191919;stop-opacity:0.21760745;"
+         offset="0.42740139"
+         id="stop10" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9"
+       id="linearGradient11"
+       x1="24"
+       y1="43.762196"
+       x2="24"
+       y2="4.2378044"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+  </defs>
+  <path
+     id="rect1"
+     style="fill:#f2f2f2;stroke:url(#linearGradient11);stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0.84703207;stroke-opacity:1;opacity:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+     d="m 16.487805,4.4878049 h 15.024391 c 8.461953,0 12,3.3636279 12,12.0000001 v 15.024391 c 0,8.392186 -3.398512,12 -12,12 H 16.487805 c -8.3921861,0 -12.0000001,-3.538047 -12.0000001,-12 V 16.487805 c 0,-3.205806 0.4778875,-5.68509 1.5152499,-7.5354978 C 7.7603246,5.8177556 11.123043,4.4878049 16.487805,4.4878049 Z"
+     sodipodi:nodetypes="ssssssssss" />
+</svg>
