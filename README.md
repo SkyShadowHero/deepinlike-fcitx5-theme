@@ -1,4 +1,4 @@
-# 自用fcitx5输入法皮肤
+# Deepin-Like-Fcitx5输入法皮肤
 风格模仿deepin，半透明背景加浅蓝色候选背景  
 Fork from[Ori-fcitx5](https://github.com/Reverier-Xu/Ori-fcitx5)
 ## 预览
